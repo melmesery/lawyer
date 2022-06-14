@@ -1,0 +1,33 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+
+.navbar , footer {
+    opacity: 0.7;
+    box-shadow: 0px 1px 5px #84884B;
+    background: #6C6F76;
+}
+
+header {
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4) , rgba(0, 0, 0, 0.4)) 
+    , url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 180px;
+}
+
+.card {
+    background: #6C6F76;
+}
+
+#work {
+    padding: 25px 0;
+    background: #84884B;
+}
+
+#slogan {
+    background: #84884B;
+}
+
